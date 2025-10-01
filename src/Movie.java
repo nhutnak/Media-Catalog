@@ -1,3 +1,8 @@
+/**
+ * Movie class represents a movie media item with specific attributes like director, year, and runtime.
+ * It extends the MediaItem class and provides a summary of the movie details.
+ */
+
 public class Movie extends MediaItem
 {
     private String director;

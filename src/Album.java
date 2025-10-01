@@ -1,3 +1,9 @@
+/**
+ * Album class represents a music album in the media library.
+ * It extends the MediaItem class and includes additional attributes
+ * such as artist, year of release, and track count.
+ */
+
 public class Album extends MediaItem
 {
     private String artist;
